@@ -1,3 +1,2 @@
-"# desktop-tutorial" 
-"# Telecom-churn-Prediction" 
-"# Telecom-churn-Prediction" 
+Telecom churn prediction project
+
